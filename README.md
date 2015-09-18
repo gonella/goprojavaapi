@@ -8,7 +8,7 @@ This project was started to help the advanced user who want to develop apps with
 
 *The APIS below were tested against lastest GOPRO camera with firmware version 3.0.(Current as of July 29, 2014)*
 
-#Maven depedency
+#Maven dependency
 
 ```
 <dependency>
