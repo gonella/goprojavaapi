@@ -2,6 +2,7 @@
 
 ##Simples example
 
+{
 //Getting the GoPro instance passing the credentials, the password is the gopro password.
 //Dont forget you need to connect in gopro via wifi first. 
 GoProApi gopro = new GoProApi("goprt4231");
@@ -24,6 +25,7 @@ for (int i = 0; i < 10; i++) {
         Thread.sleep(2 * _POLLINGTIME);
 
         gopro.stopRecordAndPowerOff();
+}
 }
 
 **This is a basic example to use the API, you can extend to call more functions. This is a simple abstraction.
