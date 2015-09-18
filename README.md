@@ -110,7 +110,7 @@ The general query structure is  : http://<ip>/<device>/<app>?t=<password>&p=<com
  Where:<device> can be bacpac or camera.
 ```
 
-**From the page, we can extract the following queries**
+From the page, we can extract the following queries
 ```
  Turn on camera : http://<ip>/bacpac/PW?t=<password>&p=%01
 Turn off camera : http://<ip>/bacpac/PW?t=<password>&p=
