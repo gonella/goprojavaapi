@@ -105,7 +105,7 @@ Obs: Be sure that you are connected to GoPro WIFI connection before to proceed
 There are many commands available in GoPro, you just need to make a request to the camera, using the links below:
 The cmd are dispatched against GoPro camera via HTTP request. 
 
-``
+```
 The general query structure is  : http://<ip>/<device>/<app>?t=<password>&p=<command>
  Where:<device> can be bacpac or camera.
 ```
