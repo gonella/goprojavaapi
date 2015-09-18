@@ -1,4 +1,4 @@
-package org.gonella.gopro.api.core;
+package com.github.gonella.gopro.api.core;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -18,9 +18,10 @@ import org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager;
 import org.apache.http.params.BasicHttpParams;
 import org.apache.http.params.HttpConnectionParams;
 import org.apache.http.params.HttpProtocolParams;
-import org.gonella.gopro.api.core.model.BacPacStatus;
-import org.gonella.gopro.api.core.model.BackPack;
-import org.gonella.gopro.api.core.model.CamFields;
+
+import com.github.gonella.gopro.api.core.model.BacPacStatus;
+import com.github.gonella.gopro.api.core.model.BackPack;
+import com.github.gonella.gopro.api.core.model.CamFields;
 
 public class GoProHelper {
 

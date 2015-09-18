@@ -2,7 +2,7 @@
 // Jad home page: http://www.kpdus.com/jad.html
 // Decompiler options: packimports(3) 
 
-package org.gonella.gopro.api.core;
+package com.github.gonella.gopro.api.core;
 
 
 public class CameraModel

@@ -1,4 +1,4 @@
-package org.gonella.gopro.api.main;
+package com.github.gonella.gopro.api.main;
 
 public class LogX {
 

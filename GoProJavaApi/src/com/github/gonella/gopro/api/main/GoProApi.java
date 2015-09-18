@@ -1,10 +1,10 @@
-package org.gonella.gopro.api.main;
+package com.github.gonella.gopro.api.main;
 
-import org.gonella.gopro.api.core.GoProHelper;
-import org.gonella.gopro.api.core.model.BacPacStatus;
-import org.gonella.gopro.api.core.model.ENCameraBoss;
-import org.gonella.gopro.api.core.model.ENCameraPowerStatus;
-import org.gonella.gopro.api.core.model.ENCameraReady;
+import com.github.gonella.gopro.api.core.GoProHelper;
+import com.github.gonella.gopro.api.core.model.BacPacStatus;
+import com.github.gonella.gopro.api.core.model.ENCameraBoss;
+import com.github.gonella.gopro.api.core.model.ENCameraPowerStatus;
+import com.github.gonella.gopro.api.core.model.ENCameraReady;
 
 public class GoProApi {
 

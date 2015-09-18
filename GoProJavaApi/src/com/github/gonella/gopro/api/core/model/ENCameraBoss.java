@@ -1,4 +1,4 @@
-package org.gonella.gopro.api.core.model;
+package com.github.gonella.gopro.api.core.model;
 
 /**
  * 

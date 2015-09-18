@@ -1,4 +1,4 @@
-package org.gonella.gopro.api.core;
+package com.github.gonella.gopro.api.core;
 
 import java.util.HashMap;
 
