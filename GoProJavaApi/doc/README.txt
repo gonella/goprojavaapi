@@ -1,3 +1,7 @@
+#How publish http://central.sonatype.org/pages/apache-maven.html
+https://issues.sonatype.org/browse/OSSRH-13874
+http://central.sonatype.org/pages/ossrh-guide.html
+
 http://forums.hackaday.com/viewtopic.php?f=3&t=3336
 
 http://stackoverflow.com/questions/16818036/controlling-gopro-with-url-commands
