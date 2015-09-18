@@ -8,6 +8,15 @@ This project was started to help the advanced user who want to develop apps with
 
 *The APIS below were tested against lastest GOPRO camera with firmware version 3.0.(Current as of July 29, 2014)*
 
+#Maven depedency
+
+```
+<dependency>
+  <groupId>com.github.gonella</groupId>
+  <artifactId>GoProJavaApi</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 
 #How use GoPro Java API
 
